@@ -1,0 +1,27 @@
+#merhaba {
+    color:aqua;
+    font-size: 20px;
+    text-align:left;
+}
+
+#örnekclass {
+    color:violet;
+    font-size: 30px;
+    text-align:justify;
+}
+#bolum1 {
+    color:blue;
+    font-size: 25px;
+    text-align:center;
+}
+#bolum2 {
+    color:yellow;
+    font-size: 13px;
+    text-align:center;
+}
+#sayfa3 {
+    color:red;
+    font-size: 15px;
+    text-align:center;
+}
+/* bu bir yorum satırıdır */
